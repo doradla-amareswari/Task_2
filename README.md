@@ -1,6 +1,4 @@
 # Task_2
-
-
 amareswari doradla
 ============
 
